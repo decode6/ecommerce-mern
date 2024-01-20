@@ -2,7 +2,7 @@ import React from "react";
 import "./Item.css";
 import { Link } from "react-router-dom";
 
-//item section
+//item sections
 const Item = (props) => {
   return (
     <div className="item">
